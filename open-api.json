@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://github.com/AntonLiljaOP/open-api-test/blob/main/open-api.json"
+      "url": "https://raw.githubusercontent.com/AntonLiljaOP/open-api-test/main/open-api.json"
     }
   ],
   "paths": {
